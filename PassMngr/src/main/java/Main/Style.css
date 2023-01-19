@@ -1,0 +1,292 @@
+.split-pane *.split-pane-divider {
+   	 -fx-padding: 0 1 0 1;
+}
+
+#ExpandButton:hover {
+	-fx-fill:  white;
+	-fx-cursor: hand;
+}
+
+#BackButton {
+	-fx-background-color:  #202f3f;
+	-fx-background-radius: 5em;
+	-fx-min-width: 30px;
+	-fx-min-height: 30px;
+	-fx-max-width: 30px;
+	-fx-max-height: 30px;
+}
+
+#BackButton: hover {
+	-fx-cursor: hand;
+}
+
+#ForwardButton {
+	-fx-background-color:  #202f3f;
+	-fx-background-radius: 5em;
+	-fx-min-width: 30px;
+	-fx-min-height: 30px;
+	-fx-max-width: 30px;
+	-fx-max-height: 30px;
+}
+
+#NewCredentialButton {
+	-fx-background-color:  #0470ec;
+	-fx-background-radius: 10;
+}
+
+#NewCredentialButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#NewTeamButton {
+	-fx-background-color:  #0470ec;
+	-fx-background-radius: 10;
+}
+
+#NewTeamButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#MinimizeButton: hover {
+	-fx-cursor: hand;
+}
+
+#FullScreenButton: hover {
+	-fx-cursor: hand;
+}
+
+#CloseButton: hover {
+	-fx-cursor: hand;
+}
+
+#LogInButton {
+	-fx-background-color:  #0470ec;
+	-fx-background-radius: 10;
+}
+
+#LogInButton: hover {
+	-fx-cursor: hand;
+}
+
+#RegisterButton {
+	-fx-background-color:  #0470ec;
+	-fx-background-radius: 10;
+}
+
+#RegisterButton: hover {
+	-fx-cursor: hand;
+}
+
+#SortButton: hover {
+	-fx-cursor: hand;
+}
+
+#InfoBox {
+	-fx-border-radius: 15;
+}
+
+#EditButton: hover {
+	-fx-cursor: hand;
+}
+
+#DeleteButton: hover {
+	-fx-cursor: hand;
+}
+
+#CredentialsButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#CredentialsButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#TeamsButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#TeamsButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#InboxButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#InboxButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#AuditButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#AuditButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#LogOutButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#LogOutButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#AccessCredentialButton {
+	-fx-background-color:  #25acea;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#AccessCredentialButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#SubmitCredentialButton {
+	-fx-background-color:  #0470ec;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#SubmitCredentialButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#CopyUserButton: hover {
+	-fx-cursor: hand;
+}
+
+#CopyPassButton: hover {
+	-fx-cursor: hand;
+}
+
+#SubmitEditButton {
+	-fx-background-color:  #0470ec;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#SubmitEditButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#SubmitTeamButton {
+	-fx-background-color:  #0470ec;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#SubmitTeamButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#AddRoleNameButton {
+	-fx-background-color:  #0470ec;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#AddRoleNameButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#SubmitRoleButton {
+	-fx-background-color:  #0470ec;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#SubmitRoleButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#RolesButton: hover {
+	-fx-cursor: hand;
+}
+
+#AddMemberButton: hover {
+	-fx-cursor: hand;
+}
+
+#InviteButton{
+	-fx-background-color:  #0470ec;
+	-fx-text-fill:  #ffffff;
+	-fx-background-radius: 10;
+}
+
+#InviteButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #202f3f;
+}
+
+#JoinTeamButton {
+	-fx-background-color:  #3ba45a;
+	-fx-background-radius: 10;
+}
+
+#JoinTeamButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #9bf012;
+}
+
+#DeclineTeamButton {
+	-fx-background-color:  #f80502;
+	-fx-background-radius: 10;
+}
+
+#DeclineTeamButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #862d3f;
+}
+
+#SubmitAssignButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#SubmitAssignButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
+
+#AssignRoleButton: hover {
+	-fx-cursor: hand;
+}
+
+#ExportAuditButton {
+	-fx-background-color:  #25acea;
+	-fx-background-radius: 10;
+}
+
+#ExportAuditButton: hover {
+	-fx-cursor: hand;
+	-fx-background-color:  #ffffff;
+	-fx-text-fill: #25acea;
+}
